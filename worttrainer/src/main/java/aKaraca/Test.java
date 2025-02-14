@@ -1,4 +1,4 @@
-package org.example;
+package aKaraca;
 
 public class Test {
     private int num1;
